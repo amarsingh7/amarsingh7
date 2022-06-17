@@ -1,3 +1,6 @@
+![fdd2726c56e7d9cd95ad83bef3365f38_w200](https://user-images.githubusercontent.com/88260268/174232511-9bf9f724-a2bb-4232-9b6c-dbad53c8d5d8.gif)![fdd2726c56e7d9cd95ad83bef3365f38_w200](https://user-images.githubusercontent.com/88260268/174232511-9bf9f724-a2bb-4232-9b6c-dbad53c8d5d8.gif)![fdd2726c56e7d9cd95ad83bef3365f38_w200](https://user-images.githubusercontent.com/88260268/174232511-9bf9f724-a2bb-4232-9b6c-dbad53c8d5d8.gif)![fdd2726c56e7d9cd95ad83bef3365f38_w200](https://user-images.githubusercontent.com/88260268/174232511-9bf9f724-a2bb-4232-9b6c-dbad53c8d5d8.gif)![fdd2726c56e7d9cd95ad83bef3365f38_w200](https://user-images.githubusercontent.com/88260268/174232511-9bf9f724-a2bb-4232-9b6c-dbad53c8d5d8.gif)
+
+
 # 𝐇i 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am **Amar Singh**
 ## 🐥**About Me**
 
