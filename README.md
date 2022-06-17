@@ -14,11 +14,19 @@
 - ⚡ Fun fact: I love travelling, reading books & eating foods!
 
  
-## **Find me around the web**🌎👇                                           
- 
+## 🤝**Connect with Me**                                           
+&nbsp; &nbsp; [<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](github.com/amarsingh7) &nbsp; &nbsp;
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter.com/amar_singh17?s=09) &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/amarsingh7/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>   &nbsp; &nbsp;
+<a href="https://www.instagram.com/invites/contact/?i=1padv3usjt0xx&utm_content=kijs5ww"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-## Github Statistics  &nbsp; ![counter](https://enwnm8xkfql1qwk.m.pipedream.net) 
+<!-- To show badges -->
+<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
+
+## 📊Github Statistics  &nbsp; ![counter](https://enwnm8xkfql1qwk.m.pipedream.net) 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7) &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
 
