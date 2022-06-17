@@ -16,7 +16,7 @@
  
 ## 🤝**Connect with Me**                                           
 &nbsp; &nbsp; [<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](github.com/amarsingh7) &nbsp; &nbsp;
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter.com/amar_singh17?s=09) &nbsp; &nbsp;
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" />](https://twitter.com/amar_singh17?s=20&t=Dd9tP-PMRU45oEdNJ-MOAA) &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/amarsingh7/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>   &nbsp; &nbsp;
 <a href="https://www.instagram.com/invites/contact/?i=1padv3usjt0xx&utm_content=kijs5ww"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
