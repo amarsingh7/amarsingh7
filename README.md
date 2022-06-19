@@ -26,7 +26,7 @@
 
 ## 📊Github Statistics  
 - ![counter](https://enwnm8xkfql1qwk.m.pipedream.net) <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7) &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
+![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7)&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
 
  
 
