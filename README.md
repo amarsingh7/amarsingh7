@@ -24,13 +24,11 @@
 <!-- To show badges -->
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
 
-## 📊Github Statistics  &nbsp; ![counter](https://enwnm8xkfql1qwk.m.pipedream.net) 
-
+## 📊Github Statistics  
+- ![counter](https://enwnm8xkfql1qwk.m.pipedream.net) <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7) &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
 
-
-
-
+ 
 
 <br>
 <br>
