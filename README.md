@@ -7,10 +7,10 @@
 - I am a Bachelor of Technology student @**Indian Institute of Technology ( BHU ) Varanasi** having deep interest in **Computer Science** and I'm in my Third Year.
 - 🔭 I’m currently working on [Joomla](https://github.com/joomla).
 - 🌱 I’m currently learning [React](https://reactjs.org/), **DSA**.
-- 👯 I’m looking to collaborate on any Devlopment or related projects!
+- 👯 I’m looking to collaborate on any **Devlopment** or **related projects**!
 - 💬 Ask me about **C, C++, HTML5, CSS/SCSS, JavaScript, NodeJs** etc.
 - 📫 How to reach me: amar.singh.iitbhuv@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love travelling, reading books & eating foods!
 
  
