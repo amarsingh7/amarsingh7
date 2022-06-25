@@ -29,7 +29,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7)&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
 
  
-
 <br>
 <br>
 
