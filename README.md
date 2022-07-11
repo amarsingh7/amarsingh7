@@ -4,7 +4,7 @@
 # 𝐇i 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am **Amar Singh**
 ## 🐥**About Me**
 
-- I am a Bachelor of Technology student [@**Indian Institute of Technology ( BHU ) Varanasi**](https://iitbhu.ac.in/) having deep interest in **Computer Science** and I'm in my Third Year.
+- I am a Bachelor of Technology student [@**Indian Institute of Technology BHU Varanasi**](https://iitbhu.ac.in/) having deep interest in **Computer Science** and I'm in my Third Year.
 - 🔭 I’m currently working on [Joomla](https://github.com/joomla).
 - 🌱 I’m currently learning [React](https://reactjs.org/), **DSA**.
 - 👯 I’m looking to collaborate on any **Development** or **related projects**!
