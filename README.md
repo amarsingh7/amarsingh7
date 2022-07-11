@@ -4,11 +4,11 @@
 # 𝐇i 𝐭𝐡𝐞𝐫𝐞 👋, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am **Amar Singh**
 ## 🐥**About Me**
 
-- I am a Bachelor of Technology student @**Indian Institute of Technology ( BHU ) Varanasi** having deep interest in **Computer Science** and I'm in my Third Year.
+- I am a Bachelor of Technology student [@**Indian Institute of Technology ( BHU ) Varanasi**](https://iitbhu.ac.in/) having deep interest in **Computer Science** and I'm in my Third Year.
 - 🔭 I’m currently working on [Joomla](https://github.com/joomla).
 - 🌱 I’m currently learning [React](https://reactjs.org/), **DSA**.
-- 👯 I’m looking to collaborate on any **Devlopment** or **related projects**!
-- 💬 Ask me about **C, C++, HTML5, CSS/SCSS, JavaScript, NodeJs** etc.
+- 👯 I’m looking to collaborate on any **Development** or **related projects**!
+- 💬 Ask me about **C, C++, HTML5, CSS/SCSS, JavaScript, NodeJs, PHP** etc.
 - 📫 How to reach me: amar.singh.iitbhuv@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love travelling, reading books & eating foods!
