@@ -34,6 +34,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amarsingh7)&nbsp;&nbsp; ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amarsingh7)
 
  
+## 🎁Badges
+[![@amarsingh7's Holopin board](https://holopin.me/amarsingh7)](https://holopin.io/@amarsingh7)
 <br>
 <br>
 
