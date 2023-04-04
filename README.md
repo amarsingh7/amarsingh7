@@ -5,10 +5,9 @@
 ## 🐥**About Me**
 
 - I am a Bachelor of Technology student [@**Indian Institute of Technology BHU Varanasi**](https://iitbhu.ac.in/) having deep interest in **Computer Science** and I'm in my Third Year.
-- 🔭 I’m currently working on [Joomla](https://github.com/joomla).
-- 🌱 I’m currently learning [React](https://reactjs.org/), **DSA**.
+- 🌱 I’m currently mastering **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on any **Development** or **related projects**!
-- 💬 Ask me about **C, C++, HTML5, CSS/SCSS, JavaScript, NodeJs, PHP** etc.
+- 💬 Ask me about **C, C++, HTML5, CSS/SCSS, JavaScript, NodeJS, SQL** etc.
 - 📫 How to reach me: amar.singh.iitbhuv@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Hot Water Freeze Faster Than Cold Water...really?
